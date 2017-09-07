@@ -4,9 +4,10 @@ title: My resume
 permalink: /resume/
 ---
 Computer Scieence,Ubonratchatani Rajabhat University
-#Experience
+
+# Experience
 - web developer Cli
 
-#Educaation
+# Educaation
 - Computer Scieence,Ubonratchatani Rajabhat University
 - Higth

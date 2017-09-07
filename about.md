@@ -10,7 +10,9 @@ Sittisak naja
 
 ### More Information
 
-[Sittisak](https://sittisak8844.github.io)
+[Link_Sittisak_Blog](https://sittisak8844.github.io)
+
+[Link_FaceBook_Sittisak](https://www.facebook.com/sittisak.sakham)
 
 A place to include any other types of information that you'd like to include about yourself.
 

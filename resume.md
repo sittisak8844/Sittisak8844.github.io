@@ -1,9 +1,9 @@
 ---
 layout: page
-title: My resume
+title: resume
 permalink: /resume/
 ---
-Computer Scieence,Ubonratchatani Rajabhat University
+### Computer Scieence,Ubonratchatani Rajabhat University
 
 # Experience
 - web developer Cli

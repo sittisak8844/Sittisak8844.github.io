@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: Sittisak Sakham
 permalink: /about/
 ---
 
-Some information about you!
+Sittisak naja
 
 ### More Information
 
